@@ -1,5 +1,5 @@
 
-Copyright (C) 2016, Doctor Hastie Developers.
+Copyright (C) 2016-2017, Doctor Hastie Developers.
 
 Please refer to AUTHORS.rst for a complete list of Copyright holders.
 

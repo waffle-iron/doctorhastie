@@ -2,8 +2,7 @@
 
 ..
 
-    Doctor Hastie is an assistant to guess your pip dependencies from your code, without using a
-    requirements file.
+    Doctor Hastie likes to write blogs about snakes and rubies.
 
 .. image:: https://img.shields.io/pypi/v/doctorhastie.svg
    :target: https://pypi.python.org/pypi/doctorhastie

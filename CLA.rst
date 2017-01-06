@@ -1,6 +1,6 @@
 Contributor License Agreement Version 1.0
 
-Copyright (C) 2016, Doctor Hastie Developers.
+Copyright (C) 2016-2017, Doctor Hastie Developers.
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
