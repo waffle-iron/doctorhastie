@@ -38,9 +38,7 @@
 .. _full documentation: https://doctorhastie.readthedocs.org
 .. _PyPIContents: https://github.com/LuisAlejandro/pypicontents
 
-**Doctor Hastie** will tell you which packages you need to install to satisfy the dependencies of
-your project. It uses a simple *AST visitor* [#]_ for detecting imports and `PyPIContents`_ to
-search which packages contain these imports.
+**Doctor Hastie** is a commandline assistant to quickly create blogs and articles. 
 
 For more information, please read the `full documentation`_.
 
@@ -65,19 +63,6 @@ directlty from GitHub like this::
 Usage
 -----
 
-``doctorhastie`` is really easy to use. Go to your python project and execute it as follows to
-start guessing your dependencies::
-
-    $ cd your-python-project/
-    $ doctorhastie report --help
-
-    usage: doctorhastie report [-h] [-r]
-
-    optional arguments:
-      -h, --help          show this help message and exit
-      -r, --requirements  Format output for requirements.txt file.
-
-:sup:`You need to run "doctorhastie update" before being able to generate a report.`
 
 Getting help
 ============
@@ -110,7 +95,7 @@ License
 .. _AUTHORS.rst: AUTHORS.rst
 .. _GPL-3 License: LICENSE.rst
 
-Copyright 2016, Doctor Hastie Developers (read AUTHORS.rst_ for a full list of copyright holders).
+Copyright 2016-2017, Doctor Hastie Developers (read AUTHORS.rst_ for a full list of copyright holders).
 
 Released under a `GPL-3 License`_ (read COPYING.rst_ for license details).
 
@@ -143,6 +128,3 @@ __ LuisAlejandroTwitter_
 
 |
 |
-
-.. [#] AST refers to an Abstract Syntax Tree, you can read more on
-       https://en.wikipedia.org/wiki/Abstract_syntax_tree
