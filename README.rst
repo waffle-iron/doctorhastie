@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/LuisAlejandro/doctorhastie.png?label=ready&title=Ready 
+ :target: https://waffle.io/LuisAlejandro/doctorhastie?utm_source=badge
+ :alt: 'Stories in Ready'
 .. image:: https://gitcdn.xyz/repo/LuisAlejandro/doctorhastie/master/docs/_static/banner.svg
 
 ..
